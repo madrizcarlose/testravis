@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madrizcarlose/testravis.git"
+    "url": "git+https://github.com/madrizcarlos/testravis.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/madrizcarlose/testravis/issues"
+    "url": "https://github.com/madrizcarlos/testravis/issues"
   },
-  "homepage": "https://github.com/madrizcarlose/testravis#readme"
+  "homepage": "https://github.com/madrizcarlos/testravis#readme"
 }
