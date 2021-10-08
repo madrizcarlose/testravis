@@ -23,7 +23,7 @@ deploy:
 notifications:
   email:
     reciepients:
-    - madrizcarlose@gmail.com
+    - carlosemadrizmora@gmail.com
     on_success: always
     on_failure: always
 # manda emails a esos mails cuando es exitoso y cuando falla
