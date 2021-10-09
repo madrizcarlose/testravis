@@ -21,6 +21,7 @@ deploy:
     branch: main
 
 notifications:
+  slack: colppy-facturador:7fGSXtkUjPmjeLikcJja1rVR
   email:
     reciepients:
     - carlosemadrizmora@gmail.com
